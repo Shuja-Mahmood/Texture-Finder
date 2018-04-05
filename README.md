@@ -8,7 +8,7 @@ This application requires that the textures and their respective map are in a sp
 
 For Windows PIL can be downloaded by executing the following command in the command prompt
 ```
-C:\>py -m pip install PIL
+C:\>py -m pip install Pillow
 ```
 Textures can be downloaded from [Poliigon](https://www.poliigon.com/)  
 P.S This is not the official application from Poliigon
