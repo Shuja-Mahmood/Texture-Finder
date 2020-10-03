@@ -8,6 +8,11 @@ import tkinter.messagebox as message
 from tkinter import filedialog
 
 
+#nice texture finder
+#Nice use of classes
+#Nice use of tkinter
+#great work keep it up
+
 TEXTURE_LOCATION = "C:\\Textures"
 
 
